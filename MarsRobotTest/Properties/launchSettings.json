@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarsRobotTest": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
